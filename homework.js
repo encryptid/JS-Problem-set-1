@@ -155,12 +155,8 @@ return change
 }
 
 let bills = makeChange(47); //declare a new variable and tell the function what should be in "money"'s place up in
-// line 118. This plugs the number into the function and runs it. I guess
+// line 118. This plugs the number into the function and runs it.
 console.log(bills);
-/* let change = [0, 0, 0, 0];
-makeChange(47);
-console.log(change); */
-
 
 // END CHANGE MACHINE
 
